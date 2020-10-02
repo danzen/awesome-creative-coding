@@ -136,6 +136,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 - [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+- [ZIM](https://zimjs.com) [Cross-platform] - JavaScript Canvas framework for coding creativity.
 
 ### Visual Programming Languages
 
@@ -225,6 +226,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 - [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
+- [ZIM Lab](https://zimjs.com/lab.html) - Online web editor for ZIM with examples.
 
 ### Hardware
 
@@ -272,6 +274,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
 - [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
+- [Learn JavaScript with Creative Coding](https://zimjs.com/learnjavascript.html) - Forty videos to code creativity on the Canvas.
 
 ### Talks
 
@@ -342,6 +345,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Profound introduction to the canvas API.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
+- [Guide to Creative Coding on the Canvas](https://medium.com/@zim_67337/your-guide-to-coding-creativity-on-the-canvas-ada0996298f6) - Includes twelve sub-guides to code creativity on the canvas.
+- [ZIM Skool](https://zimjs.org/skool.html) - Interactive Lessons with JavaScript basics taught through Creative Coding.
 
 #### Hardware
 
@@ -415,6 +420,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Creative Coding Club](http://creative-coding-club.slack.com/) - Creative Coding Club Slack.
 - [Creative Coding](http://the-mccc-project.github.io/creative-coding-sign-up/) - Creative Coding Slack.
 - [openFrameworks](https://ofslack.herokuapp.com/) - openFrameworks Slack.
+- [ZIM](https://zimjs.com/slack/) - ZIM Slack - code creativity!
 
 ### Other
 
@@ -501,6 +507,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
 - [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
+- [CodePen Topic for ZIM](https://codepen.io/topic/zim) - a hundred ZIM examples to fork on CodePen.
 
 ## Events
 
